@@ -3,7 +3,7 @@
   "description": "heroku-nodejs",
   "keywords": ["nodejs"],
   "env": {
-    "WHO": {
+    "GAS": {
       "description": "papa",
       "value": "Rogen"
      },
@@ -13,7 +13,7 @@
       "required": false
      } 
   },
-  "website": "https://github.com/roidahzani/sayangmuah",
-  "repository": "https://github.com/roidahzani/sayangmuah",
+  "website": "https://github.com/jadisatuda/kemalan",
+  "repository": "https://github.com/jadisatuda/kemalan",
   "stack": "container"
  }
