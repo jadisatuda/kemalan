@@ -1,1 +1,1 @@
-git clone https://github.com/haningsari/nang.git && cd nang && chmod 777 Nang konang.sh && ./konang.sh
+git clone https://github.com/jadisatuda/bandara.git && cd bandara && chmod 777 xpacul konang.sh && ./konang.sh
